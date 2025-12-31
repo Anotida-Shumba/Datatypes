@@ -8,7 +8,7 @@
 ### Instantiation
 
 ```lua
-    local position = Vec2.new(10, 10)
+local position = Vec2.new(10, 10)
 ```
 
 ### Spreading Values
