@@ -1,6 +1,6 @@
-###Datatypes 
+### Datatypes 
 
-##Vector 2
+# Vector 2
 
 #The vec2 datatype provides a table that has two values, an x and a y. This table also contains functions the make handling vectors easier.
 
